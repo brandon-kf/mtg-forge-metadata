@@ -1,8 +1,8 @@
 <achievements>
-    <a best="4" current="0" name="GameWinStreak" time="1752462292357"/>
-    <a best="4" current="0" name="MatchWinStreak" time="1752462292357"/>
-    <a best="24" name="TotalGameWins" time="1753577028317"/>
-    <a best="22" name="TotalMatchWins" time="1753577028317"/>
+    <a best="4" current="4" name="GameWinStreak" time="1752462292357"/>
+    <a best="4" current="4" name="MatchWinStreak" time="1752462292357"/>
+    <a best="29" name="TotalGameWins" time="1755059533822"/>
+    <a best="27" name="TotalMatchWins" time="1755059533822"/>
     <a best="6" name="NeedForSpeed" time="1753076371786"/>
     <a best="-15" name="Overkill" time="1753076371786"/>
     <a best="72" name="LifeToSpare" time="1752472461235"/>
@@ -12,6 +12,6 @@
     <a best="4" name="ManaScrewed" time="1752358062944"/>
     <a best="13" name="ManaFlooded" time="1752472469152"/>
     <a best="5" name="RagsToRiches" time="1752207957234"/>
-    <a best="20" name="Commander" time="1753577028317"/>
+    <a best="25" name="Commander" time="1755059533822"/>
     <a best="25" name="Blackjack" time="1752701696270"/>
 </achievements>

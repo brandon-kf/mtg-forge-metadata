@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout serial="2018090601">
-	<cell x="0.77441" y="0.0" w="0.22559" h="0.377" sel="CARD_DETAIL">
+	<cell x="0.77456" y="0.0" w="0.22544" h="0.37721" sel="CARD_DETAIL">
 		<doc>CARD_DETAIL</doc>
 	</cell>
-	<cell x="0.38799" y="0.0" w="0.38642" h="1.0" sel="EDITOR_CURRENTDECK">
-		<doc>EDITOR_CURRENTDECK</doc>
-		<doc>EDITOR_STATISTICS</doc>
-		<doc>EDITOR_PROBABILITIES</doc>
+	<cell x="0.77456" y="0.37721" w="0.22544" h="0.62279" sel="CARD_PICTURE">
+		<doc>CARD_PICTURE</doc>
 	</cell>
-	<cell x="0.0" y="0.0" w="0.38799" h="1.0" sel="EDITOR_CATALOG">
+	<cell x="0.0" y="0.0" w="0.38787" h="1.0" sel="EDITOR_CATALOG">
 		<doc>EDITOR_CATALOG</doc>
 		<doc>EDITOR_ALLDECKS</doc>
 		<doc>EDITOR_COMMANDER</doc>
@@ -17,7 +15,9 @@
 		<doc>EDITOR_TINY_LEADERS</doc>
 		<doc>EDITOR_DECKGEN</doc>
 	</cell>
-	<cell x="0.77441" y="0.377" w="0.22559" h="0.623" sel="CARD_PICTURE">
-		<doc>CARD_PICTURE</doc>
+	<cell x="0.38787" y="0.0" w="0.38669" h="1.0" sel="EDITOR_CURRENTDECK">
+		<doc>EDITOR_CURRENTDECK</doc>
+		<doc>EDITOR_STATISTICS</doc>
+		<doc>EDITOR_PROBABILITIES</doc>
 	</cell>
 </layout>
