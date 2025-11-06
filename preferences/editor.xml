@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout serial="2018090601">
-	<cell x="0.77456" y="0.0" w="0.22544" h="0.37721" sel="CARD_DETAIL">
-		<doc>CARD_DETAIL</doc>
-	</cell>
-	<cell x="0.77456" y="0.37721" w="0.22544" h="0.62279" sel="CARD_PICTURE">
-		<doc>CARD_PICTURE</doc>
-	</cell>
 	<cell x="0.0" y="0.0" w="0.38787" h="1.0" sel="EDITOR_CATALOG">
 		<doc>EDITOR_CATALOG</doc>
 		<doc>EDITOR_ALLDECKS</doc>
@@ -14,6 +8,12 @@
 		<doc>EDITOR_BRAWL</doc>
 		<doc>EDITOR_TINY_LEADERS</doc>
 		<doc>EDITOR_DECKGEN</doc>
+	</cell>
+	<cell x="0.77456" y="0.0" w="0.22544" h="0.37721" sel="CARD_DETAIL">
+		<doc>CARD_DETAIL</doc>
+	</cell>
+	<cell x="0.77456" y="0.37721" w="0.22544" h="0.62279" sel="CARD_PICTURE">
+		<doc>CARD_PICTURE</doc>
 	</cell>
 	<cell x="0.38787" y="0.0" w="0.38669" h="1.0" sel="EDITOR_CURRENTDECK">
 		<doc>EDITOR_CURRENTDECK</doc>

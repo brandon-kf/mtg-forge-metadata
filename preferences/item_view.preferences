@@ -5,11 +5,11 @@
     <config name="CARD_CATALOG">
         <col name="AI"/>
         <col name="CMC"/>
-        <col name="COST" sortPriority="1" sortState="ASC"/>
+        <col name="COST" sortPriority="1" sortState="DESC"/>
         <col name="FORMAT"/>
-        <col name="NAME" sortPriority="3"/>
+        <col name="NAME"/>
         <col name="COLLECTOR_ORDER"/>
-        <col name="SET" sortPriority="2" sortState="DESC"/>
+        <col name="SET" sortPriority="3" sortState="DESC"/>
         <col name="COLOR"/>
         <col name="POWER"/>
         <col name="TYPE"/>
