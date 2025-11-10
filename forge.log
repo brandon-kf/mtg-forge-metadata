@@ -4,8 +4,8 @@ Windows 11 (10.0 amd64)
 Oracle Corporation (Java 24.0.2+12-54, Java HotSpot(TM) 64-Bit Server VM)
 Language 'en-US' loaded successfully.
 (ThreadUtil first call): Running on a machine with 16 cpu core(s)
-Read cards: 30748 archived files in 906 ms (25 parts) using thread pool
-Read cards: 748 files in 31 ms (7 parts) using thread pool
+Read cards: 30748 archived files in 1130 ms (25 parts) using thread pool
+Read cards: 748 files in 38 ms (7 parts) using thread pool
 An unsupported card was requested: "Bloodsworn Steward" from "SLD". 
 
 We're sorry, but this card is not supported yet.
@@ -132,388 +132,111 @@ We're sorry, but this card is not supported yet.
 An unsupported card was requested: "Yusri, Fortune's Flame" from "SLD". 
 
 We're sorry, but this card is not supported yet.
-Attempting to fetch: https://api.scryfall.com/cards/mb1/269/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Wake the Reflections.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/mb1/269/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Wake the Reflections.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/c19/162/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Druid's Deliverance.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mm3/124/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MM3\Druid's Deliverance.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/123/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Druid's Deliverance.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ulg/111/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\UL\Repopulate.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/147/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\Horncaller's Chant.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/154/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Coursers' Accord.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/6/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Song of the Worldsoul.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/77/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Trostani's Judgment.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/28/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Trostani's Judgment.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/42/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Ghired, Conclave Exile.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dgm/7/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DGM\Scion of Vitu-Ghazi.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pio/308/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PIO\Growing Ranks.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/193/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Growing Ranks.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/gk1/113/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\GK1\Growing Ranks.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/217/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Growing Ranks.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/204/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Trostani, Selesnya's Voice.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/gk1/102/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\GK1\Trostani, Selesnya's Voice.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/206/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Trostani, Selesnya's Voice.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/6/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Cayth, Famed Mechanist1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/snc/10/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SNC\Depopulate1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/snc/406/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SNC\Depopulate2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/17/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\Eyes in the Skies.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mb1/103/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Eyes in the Skies.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/mb1/103/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Eyes in the Skies.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/rtr/10/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/mm3/5/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Eyes in the Skies.fullborder.jpg
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MM3\Eyes in the Skies.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/moc/104/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MOC\Nesting Dovehawk2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lcc/14/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LCC\Xavier Sal, Infested Captain1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mb1/1509/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Wayfaring Temple.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/mb1/1509/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Wayfaring Temple.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/c19/208/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Wayfaring Temple.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mm3/202/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MM3\Wayfaring Temple.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/209/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Wayfaring Temple.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/unk/UG03a/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\UNK\Ate-o'-Clock.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rex/5/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\REX\Life Finds a Way1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rex/31/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\REX\Life Finds a Way2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/35/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Selesnya Eulogist.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh3/36/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH3\Muster the Departed.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clu/71/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLU\Rootborn Defenses.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/26/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\Rootborn Defenses.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/203/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Sundering Growth.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/gk1/120/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\GK1\Sundering Growth.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ltc/541/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTC\Arboreal Alliance2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/231/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Vitu-Ghazi Guildmage.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/231/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Vitu-Ghazi Guildmage.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/c19/206/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Vitu-Ghazi Guildmage.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/207/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Vitu-Ghazi Guildmage.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/25/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Ghired's Belligerence.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/45/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Determined Iteration1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/146/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Determined Iteration2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lcc/52/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LCC\Promise of Aclazotz1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c19/32/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Full Flowering.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lcc/84/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LCC\Promise of Aclazotz2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mm3/28/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MM3\Wake the Reflections.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dgm/10/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DGM\Wake the Reflections.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pca/33/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PCA\Ink-Eyes, Servant of Oni.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/chk/218/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CHK\Jukai Messenger.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/926/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Jukai Naturalist.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/khm/263/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\KHM\Immersturm Skullcairn.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/103/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Skullclamp.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fic/355/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FIC\Skullclamp.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/blc/283/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BLC\Skullclamp.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rav/191/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RAV\Autochthon Wurm.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/2x2/152/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\2X2\Impervious Greatwurm1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/2x2/463/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\2X2\Impervious Greatwurm2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/19/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Everything Comes to Dust1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/215/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Clone Legion.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/969/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Phyrexian Triniform.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/sok/129/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SOK\Endless Swarm.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/sld/1391/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SLD\Polyraptor1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/spg/12/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SPG\Polyraptor.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/sld/1391★/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SLD\Polyraptor2.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/sld/1391★/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SLD\Polyraptor2.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/c21/229/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C21\Spitting Image.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fdn/81/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FDN\Chandra, Flameshaper1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/big/20/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BIG\Vaultborn Tyrant1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fut/23/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FUT\Imperial Mask.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dsc/101/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSC\Ondu Spiritdancer.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dbl/522/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DBL\Dollhouse of Horrors.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ala/211/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ALA\Minion Reflector.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/brc/149/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BRC\Mirrorworks.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/372/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Bramble Sovereign2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/218/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Bramble Sovereign1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/inr/417/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\INR\Second Harvest2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/bbd/65/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BBD\Bramble Sovereign.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/inr/213/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\INR\Second Harvest1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/stx/342/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\STX\Elemental Expressionist2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/woe/365/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WOE\Yenna, Redtooth Regent2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/otj/203/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\OTJ\Ertha Jo, Frontier Mentor.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmc/10/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DMC\Cadric, Soul Kindler1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/blc/276/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BLC\Helm of the Host.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/brr/19/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BRR\Helm of the Host1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/brr/82/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BRR\Helm of the Host2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/632/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Romana II3.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/936/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Romana II4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/345/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Romana II2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/27/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Romana II1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/952/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Prototype Portal.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/952/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Prototype Portal.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/c18/216/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C18\Prototype Portal.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/1285/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Academy Manufactor.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/1285/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Academy Manufactor.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/blc/264/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BLC\Academy Manufactor.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mkc/222/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MKC\Ancient Stone Idol.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rna/108/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RNA\Mirror March.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c18/2/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C18\Empyrial Storm.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clu/27/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLU\Conclave Evangelist.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/122/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Legion Loyalty.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/171/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Legion Loyalty.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/371/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Legion Loyalty2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/31/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Legion Loyalty1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cma/94/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMA\Caller of the Pack.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/30/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Herald of the Host.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c15/4/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C15\Herald of the Host.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/202/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Tiamat's Fanatics.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cm2/29/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CM2\Herald of the Host.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c15/34/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C15\Caller of the Pack.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/1048/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Cybermen Squadron4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/174/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Firbolg Flutist1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/531/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Duke Ulder Ravengard3.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/582/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Firbolg Flutist2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/457/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Cybermen Squadron2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/272/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Duke Ulder Ravengard1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/420/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Duke Ulder Ravengard2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/178/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Gnoll War Band.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lcc/93/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LCC\Scion of Calamity2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/1268/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Warchief Giant.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/1268/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Warchief Giant.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/tdc/34/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Goldlust Triad1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/46/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Tabaxi Toucaneers.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clu/45/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLU\Sumala Rumblers.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/65/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Polygoyf1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/963/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Myriad Construct.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/znr/376/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ZNR\Myriad Construct2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/63/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Chittering Dispatcher.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/172/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Elturel Survivors1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/581/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Elturel Survivors2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/53/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Ironwill Forger2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/blc/33/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BLC\Scurry of Squirrels1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/117/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Polygoyf2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/blc/66/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BLC\Scurry of Squirrels2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/596/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Blade of Selves2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/sld/1570/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/clb/301/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SLD\Blade of Selves1.fullborder.jpg
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Blade of Selves1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/51/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Wyrm's Crossing Patrol.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c15/51/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C15\Blade of Selves.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/380/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Myriad Landscape.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/13/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Ironwill Forger1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmc/98/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DMC\The Circle of Loyalty.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/263/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Mycosynth Golem.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/263/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Mycosynth Golem.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/onc/35/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONC\Chiss-Goria, Forge Tyrant2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dst/62/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DS\Furnace Dragon.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/onc/13/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONC\Goldwardens' Gambit1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/onc/51/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONC\Goldwardens' Gambit2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/onc/25/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONC\Chiss-Goria, Forge Tyrant1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pio/255/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PIO\Gate Colossus.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh3/121/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH3\Furnace Hellkite.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/one/143/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONE\Oxidda Finisher.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh2/141/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\J21\Slag Strider.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh2/141/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH2\Slag Strider.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ltr/832/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTR\Riders of the Mark2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ltr/827/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTR\Riders of the Mark1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/neo/314/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NEO\Sky-Blessed Samurai2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/neo/37/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NEO\Sky-Blessed Samurai1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/j25/756/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\J25\Myr Enforcer.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh2/235/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH2\Sojourner's Companion.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dst/151/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DS\Tangle Golem.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mat/86/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MAT\Nahiri, Forged in Fury2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mb1/1574/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Draco.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/mb1/1574/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Draco.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/sld/887/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\SLD\Enduring Ideal.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dsk/381/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSK\Enduring Vitality2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dsk/394/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSK\Enduring Vitality3.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dsk/404/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSK\Enduring Vitality4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/inr/408/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\INR\Cryptolith Rite3.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/379/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Mosswort Bridge.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/505/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Guild Artisan2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/179/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Guild Artisan1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fin/356/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FIN\Summon Bahamut2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdc/89/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDC\Will of the Sultai2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmr/237/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMR\Kamahl, Heart of Krosa1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmr/581/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMR\Kamahl, Heart of Krosa2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmr/553/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMR\Radiant, Serra Archangel2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/blc/227/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\BLC\Kodama of the East Tree.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/805/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Rowan Kenrith.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/923/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Clara Oswald4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/560/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Freyalise, Llanowar's Fury2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/304/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Loyal Guardian.fullborder.jpg
+An unsupported card was requested: "Druid of Purification" from "PRM". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Triplicate Titan" from "PRM". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Alibou, Ancient Witness" from "MAR". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Angel of the Ruins" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Astral Cornucopia" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Cascade Bluffs" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Chrome Host Seedshark" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Cloud Key" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Coretapper" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Crystalline Crawler" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Depthshaker Titan" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Etched Oracle" from "EOC". 
+
+We're sorry, but this card is not supported yet.
+An unsupported card was requested: "Glittering Massif" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Insight Engine" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Kilo, Apogee Mind" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Long-Range Sensor" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Moxite Refinery" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Patrolling Peacemaker" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Radiant Summit" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Solar Array" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Surge Conductor" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Uthros Research Craft" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Inspirit, Flagship Vessel" from "EOC". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Glittering Massif" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Radiant Summit" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Uthros Research Craft" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Insight Engine" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Moxite Refinery" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Surge Conductor" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Depthshaker Titan" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Patrolling Peacemaker" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Long-Range Sensor" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Solar Array" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Kilo, Apogee Mind" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
+An unsupported card was requested: "Inspirit, Flagship Vessel" from "[N.A.]". 
+
+Forge could not find this card in the Database. Any chance you might have mistyped the card name?
 An unsupported card was requested: "Aftermath Analyst" from "EOC". 
 
 We're sorry, but this card is not supported yet.
@@ -730,280 +453,207 @@ Forge could not find this card in the Database. Any chance you might have mistyp
 An unsupported card was requested: "Szarel, Genesis Shepherd" from "[N.A.]". 
 
 Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Alibou, Ancient Witness" from "MAR". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Angel of the Ruins" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Astral Cornucopia" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Cascade Bluffs" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Chrome Host Seedshark" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Cloud Key" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Coretapper" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Crystalline Crawler" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Depthshaker Titan" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Etched Oracle" from "EOC". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Glittering Massif" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Insight Engine" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Kilo, Apogee Mind" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Long-Range Sensor" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Moxite Refinery" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Patrolling Peacemaker" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Radiant Summit" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Solar Array" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Surge Conductor" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Uthros Research Craft" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Inspirit, Flagship Vessel" from "EOC". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Glittering Massif" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Radiant Summit" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Uthros Research Craft" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Insight Engine" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Moxite Refinery" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Surge Conductor" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Depthshaker Titan" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Patrolling Peacemaker" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Long-Range Sensor" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Solar Array" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Kilo, Apogee Mind" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Inspirit, Flagship Vessel" from "[N.A.]". 
-
-Forge could not find this card in the Database. Any chance you might have mistyped the card name?
-An unsupported card was requested: "Druid of Purification" from "PRM". 
-
-We're sorry, but this card is not supported yet.
-An unsupported card was requested: "Triplicate Titan" from "PRM". 
-
-We're sorry, but this card is not supported yet.
-Attempting to fetch: https://api.scryfall.com/cards/2xm/244/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\2XM\Coretapper.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/128/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Horncaller's Chant.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/moc/17/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MOC\Nesting Dovehawk1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh3/381/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH3\Emrakul, the World Anew2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pz1/73/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PZ1\Caller of the Pack.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/781/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Cybermen Squadron3.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/who/176/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WHO\Cybermen Squadron1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/370/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Battle Angels of Tyr2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/25/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLB\Hammers of Moradin.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmc/69/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DMC\Torsten, Founder of Benalia2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dsc/206/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSC\Worldspine Wurm.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/248/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\AssureAssemble.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ala/170/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ALA\Godsire.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/213/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Godsire.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/213/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Godsire.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/mrd/124/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MR\Living Hive.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dsc/195/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSC\Sandwurm Convergence.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rix/144/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RIX\Polyraptor.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mb1/1338/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Spawning Grounds.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/mb1/1338/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MB1\Spawning Grounds.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/c18/163/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C18\Spawning Grounds.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/249/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Terastodon.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c13/171/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C13\Spawning Grounds.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/uma/191/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\UMA\Walker of the Grove.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mkm/247/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MKM\FlotsamJetsam.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mor/138/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MOR\Walker of the Grove.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/otc/4/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\OTC\Yuma, Proud Protector.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/otc/236/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\OTC\Omnath, Locus of Rage.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mh3/253/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH3\Drowner of Truth.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mom/307/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MOM\Ghalta and Mavren2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/me3/151/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ME3\Hazezon Tamar.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/prm/23956/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PRM\Hazezon Tamar.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/leg/230/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LG\Hazezon Tamar.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mic/156/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MIC\Trostani's Summoner.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ogw/121/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\OGW\Birthing Hulk.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/246/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\ThrashThreat.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/eld/152/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ELD\Feasting Troll King1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/woe/172/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WOE\Gruff Triplets1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pca/87/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PCA\Dragonlair Spider.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cn2/201/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CN2\Dragonlair Spider.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/gk1/108/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\GK1\Armada Wurm.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rtr/143/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RTR\Armada Wurm.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/unk/RG08/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\UNK\Then, Dreadmaws Ate Everyone.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/j22/85/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\J22\Arlinn, Voice of the Pack.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dft/153/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DFT\Autarch Mammoth.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/233/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M3C\Hydra Broodmaster.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c21/194/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C21\Hydra Broodmaster.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/cmm/307/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Nemata, Grove Guardian.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/j25/694/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\J25\Orchard Strider.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fdn/645/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FDN\Rampaging Baloths.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/one/184/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONE\Sylvok Battle-Chair.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plist/193/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Soul of Zendikar.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/plist/193/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PLIST\Soul of Zendikar.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/dsc/202/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSC\Titania, Nature's Force.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/drc/110/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DRC\Bootleggers' Stash.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/69/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Cabaretti Confluence1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/169/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Cabaretti Confluence2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/9/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Phabine, Boss's Confidant1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmr/366/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DMR\Rith, the Awakener2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/znr/A234/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ZNR\A-Phylath, World Sculptor.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/znr/A234/?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ZNR\A-Phylath, World Sculptor.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/znr/A-234/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ZNR\A-Phylath, World Sculptor.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rav/236/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RAV\Tolsimir Wolfblood.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clu/51/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CLU\Vernal Sovereign.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/234/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\Tolsimir Wolfblood1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/woc/143/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WOC\Pollenbright Wings.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/khm/234/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\KHM\Waking the Trolls.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/57/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Crash the Party1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ncc/157/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Crash the Party2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ph17/1/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PH17\Diabolical Salvation.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ltr/169/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTR\Generous Ent1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/j22/657/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\J22\Feed the Pack.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pio/179/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PIO\Honored Hydra.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m15/182/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M15\Kalonian Twingrove.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/stx/136/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\STX\Leyline Invocation.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmr/440/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DMR\Nut Collector3.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmr/347/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DMR\Nut Collector2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/40k/96/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\40K\Old One Eye.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c13/159/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C13\One Dozen Eyes.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tdm/216/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\TDM\Reigning Victor.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fdn/331/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FDN\Rite of the Dragoncaller2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/rvr/249/en?format=image&version=normal&face=front
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\RVR\RepudiateReplicate.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/one/207/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONE\Lukka, Bound to Ruin1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/one/466/en?format=image&version=normal
-Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONE\Lukka, Bound to Ruin5.full.jpg] image: Can't get input stream from URL!
-Attempting to fetch: https://api.scryfall.com/cards/one/466/?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ONE\Lukka, Bound to Ruin5.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m12/174/en?format=image&version=normal
-Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M12\Garruk, Primal Hunter.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/vow/A233/en?format=image&version=normal&face=front
+Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\VOW\A-Brine Comber.full.jpg] image: Can't get input stream from URL!
+Attempting to fetch: https://api.scryfall.com/cards/vow/A233/?format=image&version=normal&face=front
+Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\VOW\A-Brine Comber.full.jpg] image: Can't get input stream from URL!
+Attempting to fetch: https://api.scryfall.com/cards/vow/A-233/en?format=image&version=normal&face=front
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\VOW\A-Brine Comber.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/vow/A235/en?format=image&version=normal&face=front
+Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\VOW\A-Dorothea, Vengeful Victim.full.jpg] image: Can't get input stream from URL!
+Attempting to fetch: https://api.scryfall.com/cards/vow/A235/?format=image&version=normal&face=front
+Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\VOW\A-Dorothea, Vengeful Victim.full.jpg] image: Can't get input stream from URL!
+Attempting to fetch: https://api.scryfall.com/cards/vow/A-235/en?format=image&version=normal&face=front
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\VOW\A-Dorothea, Vengeful Victim.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mkc/198/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MKC\Adrix and Nev, Twincasters.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/c21/336/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C21\Adrix and Nev, Twincasters2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/cmm/204/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CMM\Anax, Hardened in the Forge.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ltr/375/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTR\Anduril, Flame of the West2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ncc/73/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\NCC\Jolene, the Plunder Queen1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/fin/232/en?format=image&version=normal&face=front
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\FIN\Kuja, Genome Sorcerer1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/inr/433/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\INR\Liesa, Forgotten Archangel2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/pip/7/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PIP\Mr. House, President and CEO1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mom/315/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MOM\Rankle and Torbran2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/stx/156/en?format=image&version=normal&face=front
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\STX\Rowan, Scholar of Sparks1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/dsc/197/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\DSC\Scute Swarm.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/isd/84/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ISD\Undead Alchemist.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mom/299/en?format=image&version=normal&face=front
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MOM\Urabrask2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/stx/161/en?format=image&version=normal&face=front
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\STX\Valentin, Dean of the Vein1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/unk/RU07a/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\UNK\The Value Knight.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ltr/75/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTR\The Watcher in the Water1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ltr/765/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\LTR\The Watcher in the Water5.fullborder.jpg
+Fetch due to missing key: c:Concealed Courtyard|KLD|1 for Concealed Courtyard (389)
+Attempting to fetch: https://api.scryfall.com/cards/kld/245/en?format=image&version=normal
+Fetch due to missing key: c:Concealed Courtyard|KLD|1 for Concealed Courtyard (389)
+Fetch due to missing key: c:Concealed Courtyard|KLD|1 for Concealed Courtyard (389)
+Fetch due to missing key: c:Concealed Courtyard|KLD|1 for Concealed Courtyard (389)
+Fetch due to missing key: c:Concealed Courtyard|KLD|1 for Concealed Courtyard (389)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\KLD\Concealed Courtyard.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/gk2/47/en?format=image&version=normal
+Fetch due to missing key: c:Vizkopa Guildmage|GK2|1 for Vizkopa Guildmage (341)
+Fetch due to missing key: c:Vizkopa Guildmage|GK2|1 for Vizkopa Guildmage (341)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\GK2\Vizkopa Guildmage.fullborder.jpg
+Fetch due to missing key: c:Swamp|GK1|1 for Swamp (264)
+Attempting to fetch: https://api.scryfall.com/cards/gk1/25/en?format=image&version=normal
+Fetch due to missing key: c:Swamp|GK1|1 for Swamp (264)
+Fetch due to missing key: c:Swamp|GK1|1 for Swamp (264)
+Fetch due to missing key: c:Swamp|GK1|1 for Swamp (264)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\GK1\Swamp1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ice/87/en?format=image&version=normal
+Fetch due to missing key: c:Mystic Remora|ICE|1 for Mystic Remora (274)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\IA\Mystic Remora.fullborder.jpg
+Fetch due to missing key: c:Leyline of the Void|M20|1 for Leyline of the Void (400)
+Attempting to fetch: https://api.scryfall.com/cards/m20/107/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M20\Leyline of the Void.fullborder.jpg
+Fetch due to missing key: t:w_1_1_spirit_flying|MH3|8|1 for Spirit Token (408)
+Attempting to fetch: https://api.scryfall.com/cards/tmh3/8/en?format=image&version=normal
+Fetch due to missing key: t:w_1_1_spirit_flying|MH3|8|1 for Spirit Token (408)
+Fetch due to missing key: t:w_1_1_spirit_flying|MH3|8|1 for Spirit Token (408)
+Fetch due to missing key: t:w_1_1_spirit_flying|MH3|8|1 for Spirit Token (408)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\MH3\8_w_1_1_spirit_flying.jpg
+Attempting to fetch: https://api.scryfall.com/cards/cm2/30/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CM2\Jareth, Leonine Titan.fullborder.jpg
+Fetch due to missing key: c:Ancient Amphitheater|CM2|1 for Ancient Amphitheater (183)
+Attempting to fetch: https://api.scryfall.com/cards/cm2/232/en?format=image&version=normal
+Fetch due to missing key: c:Ancient Amphitheater|CM2|1 for Ancient Amphitheater (183)
+Fetch due to missing key: c:Ancient Amphitheater|CM2|1 for Ancient Amphitheater (183)
+Fetch due to missing key: c:Ancient Amphitheater|CM2|1 for Ancient Amphitheater (183)
+Fetch due to missing key: c:Ancient Amphitheater|CM2|1 for Ancient Amphitheater (183)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CM2\Ancient Amphitheater.fullborder.jpg
+Fetch due to missing key: c:Earthquake|CM2|1 for Earthquake (191)
+Attempting to fetch: https://api.scryfall.com/cards/cm2/95/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CM2\Earthquake.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/pca/104/en?format=image&version=normal
+Fetch due to missing key: c:Shardless Agent|PCA|1 for Shardless Agent (231)
+Fetch due to missing key: c:Shardless Agent|PCA|1 for Shardless Agent (231)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\PCA\Shardless Agent.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/arb/40/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\ARB\Igneous Pouncer.fullborder.jpg
+ComputerUtilMana: payManaCost() cost was not paid for Target creature can't block this turn. (Demonic Dread). Didn't find what to pay for null
+[Besurlde] AI failed to play Demonic Dread (281) [Stack]
+Attempting to fetch: https://api.scryfall.com/cards/c17/99/en?format=image&version=normal
+Fetch due to missing key: c:Blood Artist|C17|1 for Blood Artist (385)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C17\Blood Artist.fullborder.jpg
+Fetch due to missing key: c:Boros Guildgate|C19|1 for Boros Guildgate (160)
+Attempting to fetch: https://api.scryfall.com/cards/c19/234/en?format=image&version=normal
+Fetch due to missing key: c:Boros Guildgate|C19|1 for Boros Guildgate (160)
+Fetch due to missing key: c:Boros Guildgate|C19|1 for Boros Guildgate (160)
+Fetch due to missing key: c:Boros Guildgate|C19|1 for Boros Guildgate (160)
+Fetch due to missing key: c:Boros Guildgate|C19|1 for Boros Guildgate (160)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Boros Guildgate.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/c15/45/en?format=image&version=normal
+Fetch due to missing key: c:Kalemne, Disciple of Iroas|C15|1 for Kalemne, Disciple of Iroas (201)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C15\Kalemne, Disciple of Iroas.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ths/39/en?format=image&version=normal
+Fetch due to missing key: c:Aqueous Form|THS|1 for Aqueous Form (242)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\THS\Aqueous Form.fullborder.jpg
+Fetch due to missing key: c:Oath of Kaya|WAR|1 for Oath of Kaya (354)
+Attempting to fetch: https://api.scryfall.com/cards/war/209/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\WAR\Oath of Kaya.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mh1/226/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH1\Mox Tantalite.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/c19/159/en?format=image&version=normal
+Fetch due to missing key: c:Cultivate|C19|1 for Cultivate (282)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C19\Cultivate.fullborder.jpg
+Fetch due to missing key: c:Swamp|USG|1 for Swamp (300)
+Attempting to fetch: https://api.scryfall.com/cards/usg/339/en?format=image&version=normal
+Fetch due to missing key: c:Swamp|USG|1 for Swamp (300)
+Fetch due to missing key: c:Swamp|USG|1 for Swamp (300)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\US\Swamp1.fullborder.jpg
+Fetch due to missing key: c:Sunrise Sovereign|CM2|1 for Sunrise Sovereign (117)
+Attempting to fetch: https://api.scryfall.com/cards/cm2/121/en?format=image&version=normal
+Fetch due to missing key: c:Sunrise Sovereign|CM2|1 for Sunrise Sovereign (117)
+Fetch due to missing key: c:Sunrise Sovereign|CM2|1 for Sunrise Sovereign (117)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CM2\Sunrise Sovereign.fullborder.jpg
+Fetch due to missing key: t:g_1_1_insect|PCA|15|1 for Insect Token (418)
+Attempting to fetch: https://api.scryfall.com/cards/tpca/15/en?format=image&version=normal
+Fetch due to missing key: t:g_1_1_insect|PCA|15|1 for Insect Token (418)
+Fetch due to missing key: t:g_1_1_insect|PCA|15|1 for Insect Token (418)
+Fetch due to missing key: t:g_1_1_insect|PCA|15|1 for Insect Token (418)
+Fetch due to missing key: t:g_1_1_insect|PCA|15|1 for Insect Token (418)
+Fetch due to missing key: t:g_1_1_insect|PCA|15|1 for Insect Token (418)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\PCA\15_g_1_1_insect.jpg
+Fetch due to missing key: c:Murderous Cut|KTK|1 for Murderous Cut (351)
+Attempting to fetch: https://api.scryfall.com/cards/ktk/81/en?format=image&version=normal
+Fetch due to missing key: c:Murderous Cut|KTK|1 for Murderous Cut (351)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\KTK\Murderous Cut1.fullborder.jpg
+Overriding AI confirmAction decision for ChangeZoneToAltDestination, defaulting to true.
+Fetch due to missing key: t:c_a_treasure_sac|CLB|17|1 for Treasure Token (424)
+Attempting to fetch: https://api.scryfall.com/cards/tclb/17/en?format=image&version=normal
+Fetch due to missing key: t:c_a_treasure_sac|CLB|17|1 for Treasure Token (424)
+Fetch due to missing key: t:c_a_treasure_sac|CLB|17|1 for Treasure Token (424)
+Fetch due to missing key: t:c_a_treasure_sac|CLB|17|1 for Treasure Token (424)
+Fetch due to missing key: t:c_a_treasure_sac|CLB|17|1 for Treasure Token (424)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\CLB\17_c_a_treasure_sac.jpg
+Attempting to fetch: https://api.scryfall.com/cards/cm2/199/en?format=image&version=normal
+Fetch due to missing key: c:Loxodon Warhammer|CM2|1 for Loxodon Warhammer (196)
+Fetch due to missing key: c:Loxodon Warhammer|CM2|1 for Loxodon Warhammer (196)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\CM2\Loxodon Warhammer.fullborder.jpg
+Fetch due to missing key: c:Mountain|M13|1 for Mountain (105)
+Attempting to fetch: https://api.scryfall.com/cards/m13/242/en?format=image&version=normal
+Fetch due to missing key: c:Mountain|M13|1 for Mountain (105)
+Fetch due to missing key: c:Mountain|M13|1 for Mountain (105)
+Fetch due to missing key: c:Mountain|M13|1 for Mountain (105)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\M13\Mountain1.fullborder.jpg
+Fetch due to missing key: c:Forbidden Alchemy|UMA|1 for Forbidden Alchemy (233)
+Attempting to fetch: https://api.scryfall.com/cards/uma/56/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\UMA\Forbidden Alchemy.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mh1/169/en?format=image&version=normal
+Fetch due to missing key: c:Krosan Tusker|MH1|1 for Krosan Tusker (260)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\MH1\Krosan Tusker.fullborder.jpg
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Attempting to fetch: https://api.scryfall.com/cards/sld/1398★/en?format=image&version=normal
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Failed to download card [C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\SLD\1398★_g_0_1_egg_defender.jpg] image: Can't get input stream from URL!
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Fetch due to missing key: t:g_0_1_egg_defender|SLD|1398★|2 for Egg Token (432)
+Fetch due to missing key: t:w_1_1_vampire_lifelink|MOM|3|1 for Vampire Token (452)
+Attempting to fetch: https://api.scryfall.com/cards/tmom/3/en?format=image&version=normal
+Fetch due to missing key: t:w_1_1_vampire_lifelink|MOM|3|1 for Vampire Token (452)
+Fetch due to missing key: t:w_1_1_vampire_lifelink|MOM|3|1 for Vampire Token (452)
+Fetch due to missing key: t:w_1_1_vampire_lifelink|MOM|3|1 for Vampire Token (452)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\MOM\3_w_1_1_vampire_lifelink.jpg
+Overriding AI confirmAction decision for ChangeZoneToAltDestination, defaulting to true.
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Attempting to fetch: https://api.scryfall.com/cards/tdmr/13/en?format=image&version=normal
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Fetch due to missing key: t:g_1_1_squirrel|DMR|13|1 for Squirrel Token (470)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\DMR\13_g_1_1_squirrel.jpg
+Overriding AI confirmAction decision for ChangeZoneToAltDestination, defaulting to true.
+Fetch due to missing key: c:Outpost Siege|C17|1 for Outpost Siege (107)
+Attempting to fetch: https://api.scryfall.com/cards/c17/139/en?format=image&version=normal
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\cards\C17\Outpost Siege.fullborder.jpg
+Fetch due to missing key: t:g_x_x_dinosaur_trample|MOM|7|1 for Dinosaur Token (494)
+Attempting to fetch: https://api.scryfall.com/cards/tmom/7/en?format=image&version=normal
+Fetch due to missing key: t:g_x_x_dinosaur_trample|MOM|7|1 for Dinosaur Token (494)
+Fetch due to missing key: t:g_x_x_dinosaur_trample|MOM|7|1 for Dinosaur Token (494)
+Fetch due to missing key: t:g_x_x_dinosaur_trample|MOM|7|1 for Dinosaur Token (494)
+Saved image to C:\Users\brand\AppData\Local\Forge\Cache\pics\tokens\MOM\7_g_x_x_dinosaur_trample.jpg
