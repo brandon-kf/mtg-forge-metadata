@@ -5,14 +5,14 @@
     <config name="CARD_CATALOG">
         <col name="AI"/>
         <col name="CMC"/>
-        <col name="COST" sortPriority="1" sortState="ASC"/>
+        <col name="COST"/>
         <col name="FORMAT"/>
-        <col name="NAME" sortPriority="3"/>
-        <col name="COLLECTOR_ORDER"/>
-        <col name="SET" sortPriority="2" sortState="DESC"/>
+        <col name="NAME" sortPriority="1" width="321"/>
+        <col index="10" name="COLLECTOR_ORDER" width="161"/>
+        <col name="SET" sortPriority="3" sortState="DESC"/>
         <col name="COLOR"/>
         <col name="POWER"/>
-        <col name="TYPE"/>
+        <col name="TYPE" sortPriority="2" sortState="ASC" width="240"/>
         <col name="RARITY"/>
         <col name="FAVORITE" sortPriority="0" sortState="NONE"/>
         <col name="TOUGHNESS"/>
@@ -382,16 +382,16 @@
     <config name="COMMANDER_POOL">
         <col name="AI"/>
         <col name="CMC"/>
-        <col name="COST"/>
+        <col name="COST" sortPriority="1" sortState="DESC"/>
         <col name="FORMAT"/>
-        <col name="NAME" sortPriority="1"/>
+        <col name="NAME"/>
         <col name="COLLECTOR_ORDER"/>
         <col name="SET"/>
         <col name="COLOR"/>
         <col name="POWER"/>
         <col name="TYPE"/>
         <col name="RARITY"/>
-        <col name="FAVORITE" sortPriority="2"/>
+        <col name="FAVORITE" sortPriority="3"/>
         <col name="TOUGHNESS"/>
         <col name="RANKING"/>
     </config>
